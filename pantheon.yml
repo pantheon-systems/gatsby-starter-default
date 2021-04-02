@@ -1,0 +1,8 @@
+version: edge-sites-v0
+edge_site:
+  sites:
+    - path: .
+      generator: 'gatsby'
+      builder: 'gatsby'
+      build_cmd: ['build']
+      default_branch: 'main'
