@@ -98,4 +98,4 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
 
 Test commit 
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+<!-- AUTO-GENERATED-CONTENT:END -->.  
