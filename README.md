@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) --> 
-[![Early Access](https://img.shields.io/badge/Pantheon-Early_Access-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#early-access)
+## Please see https://github.com/pantheon-systems/decoupled-kit-js for the latest Pantheon FrontEnd SDKs
 
 <p align="center"> 
   <a href="https://www.gatsbyjs.com">
